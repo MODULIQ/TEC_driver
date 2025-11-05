@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Sensor_Box_XXX.SchDoc|SheetNumber=-
+Record=SheetSymbol|SourceDocument=Sensor_Box_XXX.SchDoc|Designator=TEC|SchDesignator=TEC|FileName=TEC.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=TEC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sensor_Box_XXX.SchDoc|Designator=U_SPI_IFC|SchDesignator=U_SPI_IFC|FileName=SPI_IFC.SchDoc|SheetNumber=-|SymbolType=Normal|RawFileName=SPI_IFC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
